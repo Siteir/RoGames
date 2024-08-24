@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>RoTube.com</title>
+</head>
+<body>
+<h1><center>RoTube.com</center></h1>
+<input><center></center></input>
+<a><center>V 1.0</center></a>
+</body>
+<style>
+    h1 {
+        background: blue;
+        color: darkblue; 
+        
+    }
+</style>
+</html>
